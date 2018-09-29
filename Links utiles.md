@@ -1,5 +1,8 @@
 # Lista de links por tema
 
+# Contenido del curso (general)
+[Repo principal, https://github.com/lmaddio/ada-content](https://github.com/lmaddio/ada-content)
+
 ## Utilidades para generar contenido
 [Placeholder para imagenes](https://placeholder.com/)
 
@@ -29,3 +32,20 @@ Debajo del titulo **Where can I get some?** tienen las opciones para generar con
 [Grilla por w3](https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp)
 
 [Grilla, tutorialzine](https://tutorialzine.com/2015/10/learn-the-bootstrap-grid-in-15-minutes)
+
+## Links de Ejercicios
+[Ejercicio con HTML5](https://github.com/lmaddio/ada-html5) 
+
+`https://github.com/lmaddio/ada-html5`
+
+[Dropdown](https://github.com/lmaddio/ada-dropdown) 
+
+`https://github.com/lmaddio/ada-dropdown`
+
+[Bootstrap](https://github.com/lmaddio/ada-bootstrap) 
+
+`https://github.com/lmaddio/ada-bootstrap`
+
+[Bootstrap cols con nav](https://github.com/lmaddio/ada-bootstrap-cols) 
+
+`https://github.com/lmaddio/ada-bootstrap-cols`
